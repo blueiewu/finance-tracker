@@ -1,0 +1,14 @@
+.App {
+    background-color: #f4f4f4;
+    min-height: 100vh;
+    padding: 20px 0;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
+  
+  .table-hover tbody tr:hover {
+    background-color: rgba(0,0,0,0.075);
+  }
